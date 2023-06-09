@@ -1,0 +1,1 @@
+0shesshell_permissions
